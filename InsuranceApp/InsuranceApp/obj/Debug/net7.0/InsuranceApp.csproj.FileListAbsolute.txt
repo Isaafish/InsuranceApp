@@ -1,0 +1,15 @@
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.csproj.AssemblyReference.cache
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.AssemblyInfoInputs.cache
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.AssemblyInfo.cs
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.csproj.CoreCompileInputs.cache
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/bin/Debug/net7.0/InsuranceApp
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/bin/Debug/net7.0/InsuranceApp.deps.json
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/bin/Debug/net7.0/InsuranceApp.runtimeconfig.json
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/bin/Debug/net7.0/InsuranceApp.dll
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/bin/Debug/net7.0/InsuranceApp.pdb
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.dll
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/refint/InsuranceApp.dll
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.pdb
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/InsuranceApp.genruntimeconfig.cache
+/Users/isaacfisher/Projects/InsuranceApp/InsuranceApp/InsuranceApp/obj/Debug/net7.0/ref/InsuranceApp.dll

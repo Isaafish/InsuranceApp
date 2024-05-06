@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CF8E86F6-F6DF-4D3D-9CF2-6B877D6B2167}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsuranceApp/Program.cs">
+    <Files>
+      <File FileName="InsuranceApp/Program.cs" Line="159" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InsuranceApp" expanded="True">
+            <Node name="InsuranceApp">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InsuranceApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
